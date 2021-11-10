@@ -9,6 +9,8 @@ spec:
   source:
     repoURL: https://github.com/amnaak/argo-cd.git
     targetRevision: HEAD
+    username: amnaak
+    password: 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
     path: dev
   destination: 
     server: https://kubernetes.default.svc
